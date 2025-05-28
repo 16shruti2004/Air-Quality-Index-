@@ -1,4 +1,4 @@
-Air Quality Index (AQI) Analysis  
+**Air Quality Index (AQI) Analysis  **
 
 Overview  
 Air pollution is a major environmental issue affecting health and quality of life.
